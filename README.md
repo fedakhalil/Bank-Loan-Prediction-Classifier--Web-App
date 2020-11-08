@@ -4,4 +4,4 @@ This is a web application designed to show the project structure for a machine l
 
 - Pipeline
 - Random Forest Classifier
-- Grid Search + Cross Validation](Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/homepage_screen.png?raw=true)
+- Grid Search + Cross Validation](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/homepage_screen.png?raw=true)
