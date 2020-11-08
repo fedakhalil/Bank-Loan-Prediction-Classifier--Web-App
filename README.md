@@ -1,6 +1,6 @@
 **Bank-Loan-Prediction-Web-App**
 
-This is a web application designed to show the project structure for a machine learning model deployed using flask. This project features a machine learning model that has been trained to detect whether or not an online comment is a _**Fully-Paid**_ or _**Charged-Off**_. This application acts as an interface for a user to submit new queries. The machine learning model was built using various features of scikit learn:
+This is a web application about Bank Loan Predction which designed to show the project structure for a machine learning model deployed using flask. This project features a machine learning model that has been trained to detect whether result is _**Fully-Paid**_ or _**Charged-Off**_. This application acts as an interface for a user to submit new queries. The machine learning model was built using various features of scikit learn:
 
 - Pipeline
 - Random Forest Classifier
