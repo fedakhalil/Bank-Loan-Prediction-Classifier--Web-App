@@ -11,6 +11,13 @@ This is a web application about Bank Loan Predction which designed to show the p
 ![image1](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/homepage_screen.png?raw=true)
 
 
+
+**Randomly Filled**
+
+![image2](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/filled_screen.png?raw=true)
+
+
+
 **And Result Page image**
 
-![image2](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/result_screen.png?raw=true)
+![image3](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/result_screen.png?raw=true)
