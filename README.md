@@ -18,6 +18,6 @@ This is a web application about Bank Loan Predction which designed to show the p
 
 
 
-**And Result Page image**
+**Result Page image**
 
 ![image3](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/result_screen.png?raw=true)
