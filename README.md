@@ -4,7 +4,4 @@ This is a web application designed to show the project structure for a machine l
 
 - Support Vector Machine (SVM)
 - Bag-of-Words text representation (BoW)
-- Grid Search + Cross Validation
-
-
-](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/homepage_screen.png?raw=true)
+- Grid Search + Cross Validation](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/homepage_screen.png?raw=true)
