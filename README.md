@@ -6,9 +6,11 @@ This is a web application designed to show the project structure for a machine l
 - Random Forest Classifier
 - Grid Search + Cross Validation
 
-**Here is Home Page and Result Page Images of application:**
+**Here is Home Page image of application:**
 
 ![image1](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/homepage_screen.png?raw=true)
 
+
+**And Result Page image**
 
 ![image2](https://github.com/fedakhalil/Bank-Loan-Prediction-Web-App/blob/main/static/stylesheets/result_screen.png?raw=true)
